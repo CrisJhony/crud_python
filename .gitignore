@@ -14,8 +14,13 @@ dist/
 downloads/
 eggs/
 .eggs/
+<<<<<<< HEAD
 Lib/
 Scripts/
+=======
+scripts/
+lib/
+>>>>>>> 8234a45ad5f1ac4339b39669ea1836da8a18680b
 lib64/
 parts/
 sdist/
@@ -127,4 +132,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
+=======
+.pyre/
+>>>>>>> 8234a45ad5f1ac4339b39669ea1836da8a18680b
